@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 winit = "*"
 ash = "0.31.0"
-ash_window = "0.5.0"
+ash-window = "0.5.0"
